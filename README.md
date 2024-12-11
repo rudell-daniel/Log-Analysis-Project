@@ -7,23 +7,27 @@
 <br />
 
 
-<h2>Utilities Used</h2>
-
-- <b>Notepad++</b> 
-
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project Discription Overview</h2>
 
 ![Notepad++ 1](https://github.com/user-attachments/assets/816441c1-679a-4ca6-ad7d-48f451e72a52)
+
+ <h2>Tools Utilize</h2>
  
 ![Notepad++ 2](https://github.com/user-attachments/assets/beec0cc0-70a6-425c-9d6c-63c25c0173c9)
 
+<h2>Working Toward a Solution</h2>
+
 ![Notepad++ 3](https://github.com/user-attachments/assets/1138fd26-b559-4cf7-8012-f4a91733a6d4)
 
+<h2>Working Toward a Solution</h2>
+
 ![Notepad++ 4](https://github.com/user-attachments/assets/4385cd51-f683-4114-9411-a89890d1cc94)
+
+<h2>Arriving at the Solutionn</h2>
 
 ![Notepad++ 5](https://github.com/user-attachments/assets/6094a23e-be05-44bb-800c-e4790ebe7704)
 
